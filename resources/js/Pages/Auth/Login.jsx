@@ -121,7 +121,7 @@ export default function Login({ status }) {
                             Welcome back
                         </Typography>
                         <Typography sx={{ fontSize: '0.875rem', color: '#64748b', mb: 3 }}>
-                            Sign in to your DentApp dashboard
+                            Sign in to your dashboard
                         </Typography>
 
                         {status && (
